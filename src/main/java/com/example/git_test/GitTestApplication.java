@@ -10,4 +10,9 @@ public class GitTestApplication {
         SpringApplication.run(GitTestApplication.class, args);
     }
 
+    public void test() {
+        String userId = "userId";
+        String userPwd = "UserPwd";
+    }
+
 }
