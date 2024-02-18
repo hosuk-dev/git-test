@@ -12,7 +12,7 @@ public class GitTestApplication {
 
     public void test() {
         String userId = "userId";
-        String userPwd = "UserPwdsdfsd";
+        String userPwd = "UserPwd";
     }
 
 }
