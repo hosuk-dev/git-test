@@ -11,8 +11,8 @@ public class GitTestApplication {
     }
 
     public void test() {
-        String userId = "remote";
-        String userPwd = "remote";
+        String userId = "git";
+        String userPwd = "git";
     }
 
 }
