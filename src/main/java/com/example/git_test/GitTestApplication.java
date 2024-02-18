@@ -11,8 +11,8 @@ public class GitTestApplication {
     }
 
     public void test() {
-        String userId = "ccc";
-        String userPwd = "ccc";
+        String userId = "aaa";
+        String userPwd = "aaa";
     }
 
 }
